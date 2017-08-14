@@ -1,3 +1,3 @@
 # FroggerMapAndMovement
-Map &amp; movement for frogger game
+Map &amp; movement for frogger game;
 Unfinished Project...
