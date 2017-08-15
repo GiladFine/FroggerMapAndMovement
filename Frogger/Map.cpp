@@ -1,6 +1,7 @@
 #include "Map.h"
 
 
+
 void Map::init()
 {
 	for (int i = 0; i < MAP_HEIGHT; ++i)
